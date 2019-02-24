@@ -1,0 +1,39 @@
+* {
+  text-align: Left;
+}
+body {
+  */background-image:  url(download.jpg);*/
+  background-size: cover;
+}
+
+*/h3 {
+  color: blue;
+  text-align:left;
+  border: 5px  solid rgba(0, 176, 170, 0.5);
+  width: 26%;
+  cursor: pointer;
+}*/
+id{
+  text-align: center;
+  border: 3px solid rgba(255, 0, 0, 1);
+}
+submit{
+  border: 3px solid rgba(0, 255, 0, 1);
+}
+p {
+  color: green
+}
+p {
+  color: orange !important;
+}
+.webtext:first-child {
+  border: 6px dashed red;
+}
+.active {
+  color: pink
+}
+#div1 {
+  background: rgba(0, 0, 255, 0.2);
+}
+#div2 {
+  background: rgba(0, 200, 255, 0.3);
